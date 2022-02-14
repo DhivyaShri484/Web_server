@@ -65,4 +65,3 @@ Program finished successfully.
 ![name](./Output.png)
 ## RESULT:
 Therefore, the webserver is developed to server simple html pages.
->>>>>>> 46dd39ee5fd30f79754c33268a0cb8a5d47d0e84
