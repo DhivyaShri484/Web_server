@@ -56,12 +56,7 @@ print("my webserver is running...")
 httpd.serve_forever()
 
 ## OUTPUT:
-![output](./Pavanwebserver.jpeg)
-## RESULT:
-Program finished successfully.  
-=======
+![output](./1.png.jpeg)
 
-## OUTPUT:
-![name](./Output.png)
 ## RESULT:
 Therefore, the webserver is developed to server simple html pages.
